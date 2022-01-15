@@ -8,7 +8,7 @@
   <align="right">
   <summary>:fire: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalbrid&langs_count=8&layout=compact&theme=dracula" />
-      <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mdalbrid&show_icons=true&theme=dracula" />
+      <img align="centre" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mdalbrid&show_icons=true&theme=dracula" />
 </details>
 
 
