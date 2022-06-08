@@ -1,8 +1,22 @@
-### Hi there 👋, I'm Pavel
+<h1 align="center">Hi there, I'm <a href="https://chromedino.com/" target="_blank">Pavel</a> 👋</h1>
 
-![](https://komarev.com/ghpvc/?username=mdalbrid)
-<img align="right" alt="Golang" width="89px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&multiline=true&width=500&height=60&lines=+%E2%95%AF%C2%B0%E2%96%A1%C2%B0\)%E2%95%AF+%E2%94%BB%E2%94%81%E2%94%81%E2%94%BB)](https://git.io/typing-svg)
+<!--![](https://komarev.com/ghpvc/?username=mdalbrid)-->
+<br>
+<details>
+  <align="right">
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+</details>
 
+<br>
 
 <details>
   <align="right">
