@@ -1,20 +1,26 @@
 <h1 align="center">Hi there, I'm <a href="https://chromedino.com/" target="_blank">Pavel</a> 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&multiline=true&width=500&height=60&lines=+%E2%95%AF%C2%B0%E2%96%A1%C2%B0\)%E2%95%AF+%E2%94%BB%E2%94%81%E2%94%81%E2%94%BB)](https://git.io/typing-svg)
+
 <!--![](https://komarev.com/ghpvc/?username=mdalbrid)-->
-<br>
-<details>
-  <align="right">
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-</details>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <!--<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">-->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+
+
+<p align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=38D6F7&center=true&multiline=true&height=40&lines=%E2%95%AF%C2%B0%E2%96%A1%C2%B0)%E2%95%AF+%E2%94%BB%E2%94%81%E2%94%81%E2%94%BB%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80">
+
+
+
 
 <br>
 
