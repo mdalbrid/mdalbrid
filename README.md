@@ -20,8 +20,6 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=38D6F7&center=true&multiline=true&height=40&lines=%E2%95%AF%C2%B0%E2%96%A1%C2%B0)%E2%95%AF+%E2%94%BB%E2%94%81%E2%94%81%E2%94%BB%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80">
 
 
-
-
 <br>
 
 <details>
